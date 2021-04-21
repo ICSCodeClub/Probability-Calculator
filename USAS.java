@@ -2,10 +2,6 @@ import java.util.*;
 import java.util.Scanner;
 
 	public class USAS {
-		
-	public USAS() {
-	}
-
 	public static void main(String[] args) {
 		
 					String releaseVersionAndDate = " Alpha Version 0.4 (4/_/2021)";
